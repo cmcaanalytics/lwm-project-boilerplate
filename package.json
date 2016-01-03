@@ -1,0 +1,26 @@
+{
+  "name": "lwm-project-boilerplate",
+  "version": "1.0.0",
+  "description": "The Lightweight Modular Project Boilerplate establishes a baseline file structure for websites and web applications using LWM.",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danpaquette/lwm-project-boilerplate.git"
+  },
+  "keywords": [
+    "html",
+    "boilerplate",
+    "project",
+    "sass",
+    "scss",
+    "css",
+    "javascript"
+  ],
+  "author": "Dan Paquette",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danpaquette/lwm-project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/danpaquette/lwm-project-boilerplate#readme"
+}
